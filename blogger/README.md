@@ -1,24 +1,7 @@
-# README
+Within this project, I will build my first ruby on rails application.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Access it at [heroku](https://secure-castle-16877.herokuapp.com/)
 
-Things you may want to cover:
+From the Odin Project's [curriculum](https://www.theodinproject.com/courses/web-development-101/lessons/ruby-on-rails?ref=lnav)
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+In this project I will demonstrate the basic principles used when build a ruby on rails application according to the MVC model.
